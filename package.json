@@ -1,11 +1,23 @@
 {
 	"name": "csv-parsing-tool",
+	"author": "alishour.dev",
+	"keywords": [
+		"csv",
+		"parsing",
+		"tool",
+		"react",
+		"next",
+		"tailwind",
+		"typescript"
+	],
+	"license": "MIT",
+	"description": "A tool for parsing CSV files efficiently using modern web technologies.",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
-		"dev": "next dev -p 3000",
+		"dev": "next dev",
 		"build": "next build",
-		"start": "next start -p 3000",
+		"start": "next start",
 		"build-clean": "pnpm clean && pnpm build",
 		"clean": "rimraf .next .turbo dist",
 		"clean-all": "pnpm clean && rimraf node_modules",

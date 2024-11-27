@@ -1,4 +1,4 @@
-# CSV Parsing Tool
+# CSV Parsing Tool 📁
 
 ## Overview
 
